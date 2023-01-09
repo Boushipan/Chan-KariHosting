@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Chan-KariHosting/static/css/main.d0446496.css",
-    "main.js": "/Chan-KariHosting/static/js/main.fef8e3a6.js",
+    "main.js": "/Chan-KariHosting/static/js/main.eef5e5ab.js",
     "index.html": "/Chan-KariHosting/index.html",
     "main.d0446496.css.map": "/Chan-KariHosting/static/css/main.d0446496.css.map",
-    "main.fef8e3a6.js.map": "/Chan-KariHosting/static/js/main.fef8e3a6.js.map"
+    "main.eef5e5ab.js.map": "/Chan-KariHosting/static/js/main.eef5e5ab.js.map"
   },
   "entrypoints": [
     "static/css/main.d0446496.css",
-    "static/js/main.fef8e3a6.js"
+    "static/js/main.eef5e5ab.js"
   ]
 }
