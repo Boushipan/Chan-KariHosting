@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chan-KariHosting/static/css/main.0303aa15.css",
+    "main.js": "/Chan-KariHosting/static/js/main.c79dbcf0.js",
+    "index.html": "/Chan-KariHosting/index.html",
+    "main.0303aa15.css.map": "/Chan-KariHosting/static/css/main.0303aa15.css.map",
+    "main.c79dbcf0.js.map": "/Chan-KariHosting/static/js/main.c79dbcf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0303aa15.css",
+    "static/js/main.c79dbcf0.js"
+  ]
+}
